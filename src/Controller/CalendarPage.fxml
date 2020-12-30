@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.CalendarPageController">
+   <children>
+      <TableView fx:id="AppointmentTable" layoutY="119.0" prefHeight="200.0" prefWidth="603.0">
+         <columns>
+            <TableColumn fx:id="AppointmentID" prefWidth="110.0" text="Appointment ID" />
+            <TableColumn fx:id="CustomerID" prefWidth="86.0" text="Customer ID" />
+            <TableColumn fx:id="Type" prefWidth="119.0" text="Type" />
+            <TableColumn fx:id="Start" prefWidth="145.0" text="Start" />
+            <TableColumn fx:id="End" prefWidth="142.0" text="End" />
+         </columns>
+      </TableView>
+      <RadioButton fx:id="WeekViewRB" layoutX="133.0" layoutY="49.0" mnemonicParsing="false" onAction="#viewSelect" selected="true" text="Week View">
+         <toggleGroup>
+            <ToggleGroup fx:id="CalendarView" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton fx:id="MonthViewRB" layoutX="389.0" layoutY="49.0" mnemonicParsing="false" onAction="#viewSelect" text="Month View" toggleGroup="$CalendarView" />
+      <Button fx:id="backButton" layoutX="230.0" layoutY="319.0" mnemonicParsing="false" onAction="#goToMain" prefHeight="75.0" prefWidth="150.0" text="Back" />
+   </children>
+</AnchorPane>

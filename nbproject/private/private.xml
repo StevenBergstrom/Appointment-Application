@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/MainPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/UpdateAppointmentController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AddAppointmentController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ReportsPage.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/CalendarPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/CountriesReportPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/AppointmentDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/CustomerPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AddAppointment.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/LoginPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Language/Nat_es.properties</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/TypeReportPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/UpdateCustomer.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/UpdateAppointment.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ContactReportPage.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ConvertStartTimeInterface.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/Appointment.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/DBQuery.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/CityDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ConvertTimeInterface.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/Customer.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/SW2.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/CustomerDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/Address.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AppointmentPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/LogManager.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ReportsPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/AddressDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/ContactReportPageController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/CountryDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AddCustomerController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/DBConnection.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/User.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Language/Nat_en.properties</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AddCustomer.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AppointmentPage.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/TypeReportPage.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/utils/UserDAO.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Model/City.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/UpdateCustomerController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AppointmentReport.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/SW2/src/Controller/AlertClass.java</file>
+        </group>
+    </open-files>
+</project-private>

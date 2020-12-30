@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.TypeReportPageController">
+   <children>
+      <ComboBox fx:id="TypeDropDown" layoutX="225.0" layoutY="33.0" onAction="#selectType" prefWidth="150.0" />
+      <TableView fx:id="TypeReportTable" layoutX="75.0" layoutY="100.0" prefHeight="200.0" prefWidth="450.0">
+        <columns>
+          <TableColumn fx:id="AppointmentIDColumn" prefWidth="225.0" text="Appointment ID" />
+          <TableColumn fx:id="TypeColumn" prefWidth="224.0" text="Type" />
+        </columns>
+      </TableView>
+      <Button fx:id="BackButton" layoutX="225.0" layoutY="313.0" mnemonicParsing="false" onAction="#goToReports" prefHeight="75.0" prefWidth="150.0" text="Back" />
+   </children>
+</AnchorPane>
